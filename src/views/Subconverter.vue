@@ -224,7 +224,7 @@ export default {
               }
             ]
           },
-        {
+          {
             label: "ACL4SSR原版",
             options: [
               {
